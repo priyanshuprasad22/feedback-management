@@ -16,3 +16,5 @@ The backend is built with Node.js, Express, and TypeScript. It includes endpoint
 4. Start the server:
    ```bash
    npm start
+### Frontend
+The frontend is built with React and TypeScript. It includes a form to submit feedback and a list to display all feedback entries.
