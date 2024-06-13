@@ -18,3 +18,12 @@ The backend is built with Node.js, Express, and TypeScript. It includes endpoint
    npm start
 ### Frontend
 The frontend is built with React and TypeScript. It includes a form to submit feedback and a list to display all feedback entries.
+1.  Navigate to the project directory:
+    ```bash
+    cd feedback-frontend
+2.  Install dependencies:
+    ```bash
+    npm install
+3. Start the server:
+   ```bash
+   npm start
