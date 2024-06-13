@@ -13,9 +13,6 @@ The backend is built with Node.js, Express, and TypeScript. It includes endpoint
 3.  Install dependencies:
     ```bash
     npm install
-4.  Set up environment variables:
-    ```bash
-    Create a .env file in the root directory and define environment variables such as database connection URI, PORT,Weather API,Distance API and API Keys respectively.
-5. Start the server:
+4. Start the server:
    ```bash
    npm start
